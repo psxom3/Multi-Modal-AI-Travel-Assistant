@@ -29,9 +29,13 @@ Think of each AI model as a specialist in your team:
 → Python + Gradio
 
 🧰 But here’s the cool part — “TOOLS” in LLMs: 
+
 They’re not physical tools. 
+
 They're *functions* the model can call when it needs help. 
+
 Think: “Let me check the price” → it uses `get_ticket_price()`. 
+
 Or “Let me confirm that booking” → it calls `make_booking()`.
 
 This is how GPT models go beyond text — they can *act*.
