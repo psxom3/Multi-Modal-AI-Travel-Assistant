@@ -1,9 +1,8 @@
-# Multi-Modal-AI-Travel-Assistant
+# Multi-Modal-AI-Travel-Assistant using LLMs, Frontier Models- OpenAI, Gemini
 AI-powered travel assistant that speaks, translates, draws, and books flights
 
 I built a multilingual, voice-powered travel assistant using 
-#LLMs
-#Frontier Models- OpenAI, Gemini
+
 
 (Yes, it speaks, translates, draws... and even books your flights.)
 
